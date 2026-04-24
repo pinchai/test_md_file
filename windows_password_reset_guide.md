@@ -61,6 +61,3 @@ If your account uses an email (e.g., Outlook, Gmail):
 - Consider PIN or biometric login for convenience
 
 ---
-
-## 📌 Tip
-Always keep a backup admin account or recovery option enabled to avoid lockout.
